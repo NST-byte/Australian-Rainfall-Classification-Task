@@ -1,6 +1,6 @@
-## Title
+## Classification Task predicting rain
 
-*First Point
-*Second Point
+*First Point <br>
+*Second Point <br>
 
-ACtually the aim is to calculate todays weather
+The aim of this project is to create models that will best predict whether there will be rain on the following day
