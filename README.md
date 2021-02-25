@@ -7,4 +7,4 @@ The aim of this project is to create models that will best predict whether there
 
 Dont forget to take into account all the variables
 
-blabla
+More than a hundred features
