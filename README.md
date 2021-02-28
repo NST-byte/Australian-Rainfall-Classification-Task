@@ -28,3 +28,7 @@ The only remaining cleaning necessary was to one-hot encode the categorical vari
 6. Cat Boost: The final model used was a Cat Boost model, it gave a good Accuracy score of 83.84%, however it did not perform so well in terms of the other metrics.
 
 * Best Model: In the end the best model was decided to be the XGBoost model as it performed the best when taking into account all of the metrics.
+
+Below is the comparison of all the models with the three metrics used:
+
+![Model Comparison](https://user-images.githubusercontent.com/67882633/109438091-69883680-7a7c-11eb-8ad3-5f5158d386f0.PNG)
