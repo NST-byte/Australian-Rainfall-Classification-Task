@@ -3,7 +3,7 @@
 The aim of this project is to create models that will best predict whether there will be rain on the following day. The datasets is taking from kaggle and includes weather information for a range of cities across Australia. The features include temperatures, wind speeds and sunshine amongst others.
 
 
-*After initially analysing the data it was found there were large amounts of missing data: <br>
+* After initially analysing the data it was found there were large amounts of missing data: <br>
 Data Imputation: <br>
 1. Categorical Variables: The missing values were imputed by taking the most common value from all the data entries in that same city. For example, a missing value about wind direction in Sydney would be replaced by the most common wind direction in Sydney.<br>
 
@@ -27,4 +27,4 @@ The only remaining cleaning necessary was to one-hot encode the categorical vari
 
 6. Cat Boost: The final model used was a Cat Boost model, it gave a good Accuracy score of 83.84%, however it did not perform so well in terms of the other metrics.
 
-*Best Model: In the end the best model was decided to be the XGBoost model as it performed the best when taking into account all of the metrics. 
+*Best Model: In the end the best model was decided to be the XGBoost model as it performed the best when taking into account all of the metrics.
